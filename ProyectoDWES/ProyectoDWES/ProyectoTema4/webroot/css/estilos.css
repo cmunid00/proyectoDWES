@@ -1,0 +1,55 @@
+@font-face{
+    font-family: 'fb';
+    src: url(../fonts/fb.ttf) format('truetype');
+}
+table{
+    width: 100%;
+}
+table tr .titulo{
+    text-align: center;
+}
+table tr td a{
+    text-decoration: none;
+    padding: 5px;
+    color: #304D6F;
+    font: Tahoma, Verdana, Sans-Serif, Arial;
+}
+table tr td{
+    padding: 5px;
+    color: #304D6F;
+    font: Tahoma, Verdana, Sans-Serif, Arial;
+}
+img{
+    margin-top: 4px;
+    margin-left: 20px;
+}
+table tr:hover{
+    background-color: #7f7f7f;
+}
+h1{
+    text-align: center;
+    color: #7f7f7f;
+}
+a{
+    text-decoration: none;
+    color: #304D6F;
+    padding: 10px;
+    font: Tahoma, Verdana, Sans-Serif, Arial;
+}
+.atras{
+    margin-bottom: 80px;
+    margin-left: -30px;
+}
+footer{
+    background-color: #7f7f7f;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer p{
+    padding: 5px;
+    font-family: 'Permanent Marker';
+    font-variant: small-caps;
+    text-align: center;
+    color: #6651BA;
+}

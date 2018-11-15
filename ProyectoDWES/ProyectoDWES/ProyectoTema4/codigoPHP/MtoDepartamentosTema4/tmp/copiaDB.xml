@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<departamentos>
+  <departamento>
+    <CodDepartamento>CMP</CodDepartamento>
+    <DescDepartamento>Departamento Compras</DescDepartamento>
+  </departamento>
+  <departamento>
+    <CodDepartamento>CNT</CodDepartamento>
+    <DescDepartamento>Departamento Contabilidad</DescDepartamento>
+  </departamento>
+  <departamento>
+    <CodDepartamento>GST</CodDepartamento>
+    <DescDepartamento>Departamento Gestion</DescDepartamento>
+  </departamento>
+  <departamento>
+    <CodDepartamento>VNT</CodDepartamento>
+    <DescDepartamento>Departamento Ventas</DescDepartamento>
+  </departamento>
+</departamentos>

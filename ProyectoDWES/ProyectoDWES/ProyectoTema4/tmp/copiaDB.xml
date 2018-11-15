@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamentos>
+    <departamento>
+        <CodDepartamento>AAA</CodDepartamento>
+        <DescDepartamento>aaaaaaaaaaaaaaaaaaa</DescDepartamento>
+    </departamento>
+    <departamento>
+        <CodDepartamento>BBB</CodDepartamento>
+        <DescDepartamento>aaaaaaaaaaaaaaaaaaaaaaa</DescDepartamento>
+    </departamento>
+    <departamento>
+        <CodDepartamento>CCC</CodDepartamento>
+        <DescDepartamento>aaaaaaaaaaaaaaaaaaa</DescDepartamento>
+    </departamento>
+</departamentos>
