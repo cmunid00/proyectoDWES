@@ -1,0 +1,16 @@
+<?php
+define("OBLIGATORIO", 1);
+define("NOOBLIGATORIO", 0);
+define("LONGMAXALFABETICO", 20);
+define("LONGMINALFABETICO", 3);
+define("LONGMAXALFANUMERICO", 20);
+define("LONGMINALFANUMERICO", 3);
+define("LONGMAXPASS", 20);
+define("LONGMINPASS", 5);
+define("MAXIMONUMERO", 100);
+define("MINIMONUMERO", -10);
+define("LONGMAXEMAIL", 40);
+define("LONGMINEMAIL", 8);
+define("LONGMAXTEXTOLIBRE", 50);
+define("LONGMINTEXTOLIBRE", 3);
+?>
